@@ -1,0 +1,9 @@
+B1: lên localhost/phpmyadmin tạo một csdl mới tên là: qldsv_db
+B2: giải nén zip ra bên trong thư mục database có file qldsv_db.sql
+B3: vào database đã tạo ở phpmyadmin chọn nhập file. Sau đó chọn file qldsv_db.sql
+B4: di chuyển folder khi đã giải nén zip vào trong xampp/htdocs/
+
+B5: chạy localhost/ + tên folder là xong
+
+tài khoản admin: admin@gmail.com
+password: admin
